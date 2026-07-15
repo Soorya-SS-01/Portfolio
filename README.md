@@ -1,17 +1,32 @@
 <div align="center">
 
-<img src="soorya.jpg.jpeg" alt="Soorya S S" width="140" style="border-radius:50%;" />
+<img src="soorya.jpg.jpeg" alt="Soorya S S" width="220" style="border-radius:50%;" />
 
 # Soorya S S — Portfolio
 
 ### Software Engineer • AI & ML, Automation Enthusiast
 
-[![Live Site](https://img.shields.io/badge/View-Live%20Site-c8ff00?style=flat-square)](https://soorya-ss-01.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-s-s-364839370)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
-
 </div>
+
+---
+
+## 🏆 Academic and Project Achievements [↗ Link](#)
+
+▸ **Best Outgoing Student** – Awarded as Best Outgoing Student in the Academic Year 2020–21; secured School 3rd Rank in 12th Grade.
+
+▸ **1st Prize — Project Expo (2023–24)** – Won 1st Prize in the Project Expo conducted in the academic year 2023–24 by the Department of Computer Science.
+
+▸ **Finalist — iTech Summit Hackathon** – Ranked among the top teams out of 400+ teams.
+
+▸ **1st Prize — Project Expo (2025–26)** – Won 1st Prize in the Project Expo conducted in the academic year 2025–26 by the Department of Computer Science.
+
+▸ **Honored by CSE Association** – Recognized for the successful implementation of the Student Print Web Application.
+
+## 🏅 Leadership and Sports Achievements [↗ Link](#)
+
+▸ **Best Organizing Team** – Organized the PSG iTech Hackathon with 1,700+ participants.
+
+▸ **Sports** – Winners in Cricket (2023–24), Runners-up in Cricket (2024–25), and Winners in Volleyball (2025–26).
 
 ---
 

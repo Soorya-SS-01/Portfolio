@@ -6,6 +6,8 @@
 
 ### Software Engineer • AI & ML, Automation Enthusiast
 
+> ### 💡 "There is No Substitute for Hard Work"
+
 </div>
 
 ---
